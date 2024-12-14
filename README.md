@@ -8,4 +8,4 @@
 git clone https://github.com/fransiskuscyh/WatsonX-Integrate-LLMs.git
 cd watsonx-llm-integration
 pip install -r requirements.txt
-python app.py
+python api-integrasi.py
