@@ -1,7 +1,7 @@
-"Integrate LLMs with applications"
+<h1>"Integrate LLMs with applications"</h1>
 
-## Deskripsi
-Proyek ini mengintegrasikan Watsonx.ai LLM dengan aplikasi menggunakan Flask.
+
+<p>integrasikan Watsonx.ai LLM dengan aplikasi menggunakan Flask.</p>
 
 ## Instalasi
 ```bash
