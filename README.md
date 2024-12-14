@@ -1,4 +1,4 @@
-<h1>"Integrate LLMs with applications"</h1>
+<h1 style:"text-align:center">"Integrate LLMs with applications"</h1>
 
 
 <p>integrasikan Watsonx.ai LLM dengan aplikasi menggunakan Flask.</p>
